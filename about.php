@@ -95,7 +95,6 @@
             <li>Quản lý kho hàng</li>
             <li>Lập trình website bán hàng bằng PHP, MySQL</li>
             <li>Tạo website cá nhân</li>
-            <li>Lập trình website hệ thống quản lí phòng thực hành và thiết bị</li>
         </ul>
     </div>
 
